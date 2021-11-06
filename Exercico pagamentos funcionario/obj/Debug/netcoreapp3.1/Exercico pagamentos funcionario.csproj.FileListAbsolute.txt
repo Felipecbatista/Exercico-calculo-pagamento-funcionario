@@ -1,0 +1,14 @@
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\bin\Debug\netcoreapp3.1\Exercico pagamentos funcionario.exe
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\bin\Debug\netcoreapp3.1\Exercico pagamentos funcionario.deps.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\bin\Debug\netcoreapp3.1\Exercico pagamentos funcionario.runtimeconfig.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\bin\Debug\netcoreapp3.1\Exercico pagamentos funcionario.runtimeconfig.dev.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\bin\Debug\netcoreapp3.1\Exercico pagamentos funcionario.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\bin\Debug\netcoreapp3.1\Exercico pagamentos funcionario.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\obj\Debug\netcoreapp3.1\Exercico pagamentos funcionario.csproj.AssemblyReference.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\obj\Debug\netcoreapp3.1\Exercico pagamentos funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\obj\Debug\netcoreapp3.1\Exercico pagamentos funcionario.AssemblyInfoInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\obj\Debug\netcoreapp3.1\Exercico pagamentos funcionario.AssemblyInfo.cs
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\obj\Debug\netcoreapp3.1\Exercico pagamentos funcionario.csproj.CoreCompileInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\obj\Debug\netcoreapp3.1\Exercico pagamentos funcionario.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\obj\Debug\netcoreapp3.1\Exercico pagamentos funcionario.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercico pagamentos funcionario\Exercico pagamentos funcionario\obj\Debug\netcoreapp3.1\Exercico pagamentos funcionario.genruntimeconfig.cache
